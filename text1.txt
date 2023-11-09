@@ -1,2 +1,1 @@
-create file on branch "branchOne"
-city: Bangalore
+city: Coimbatore
